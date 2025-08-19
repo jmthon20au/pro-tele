@@ -1,5 +1,7 @@
 APScheduler==3.6.3
 
+Telethon==1.28.0
+
 cachetools==4.2.2
 
 certifi==2022.6.15
