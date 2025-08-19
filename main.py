@@ -28,7 +28,7 @@ auto_reply_enabled = True
 name_update_enabled = False
 original_name = None
 keywords = {
-    "السلام": "وعليكم السلام ورحمة الله",
+    "السلام": "وعليكم ا السلام ورحمة الله",
     "شلونك": "تمام وانت؟"
 }
 morning_replies = [
